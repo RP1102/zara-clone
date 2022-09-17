@@ -1,0 +1,11 @@
+.App{
+    height: 100%;
+    width: 100%;
+
+    .fixed-stuff{
+        height: 100vh;
+        width: 100vw;
+        position: fixed;
+        border: 2px solid green;
+    }
+}
